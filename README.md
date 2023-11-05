@@ -16,9 +16,6 @@ As you can understand, I everywhere use nickname _lebedev05tmn_, so you can sear
 
 Front-end\*: common HTML+CSS+JS (with React).
 
-- _Desktop_: Avalonia, WinForms, WPF, TornadoFx, Qt (C++).
-- Had commerical experience of writing _Telegram bots_ with [Telethon](https://github.com/LonamiWebs/Telethon) and [peewee](https://github.com/coleifer/peewee) SQL ORM.
-
 #### Programming languages
 
 - JavaScript, TypeScript (React.js) + Baseed Frontend stack (HTML, CSS, SASS)
