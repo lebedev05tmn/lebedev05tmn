@@ -24,5 +24,7 @@ Front-end\*: common HTML+CSS+JS.
 ### I was working on:
 
 - [Sedona](https://github.com/lebedev05tmn/Sedona) HTML+CSS
+- [Layout for CMS](https://github.com/lebedev05tmn/layot-for-cms) HTML+CSS
 - [Cat-energy](https://github.com/lebedev05tmn/cat-energy) HTML+SCSS(SASS)+JS
 - [Kekstagram](https://github.com/lebedev05tmn/kekstagram) JS+HTML+CSS
+
