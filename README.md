@@ -18,7 +18,7 @@ Front-end\*: common HTML+CSS+JS.
 
 #### Programming languages
 
-- JavaScript + React+  Based Frontend stack (HTML, CSS, SASS)
+- JavaScript + React + Based Frontend stack (HTML, CSS, SASS)
 - Python
 
 ### I was working on:
