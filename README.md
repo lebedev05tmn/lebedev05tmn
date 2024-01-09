@@ -31,5 +31,5 @@ Front-end\*: common HTML+CSS+JS.
 
 ## My stats
 
-![snaulX GitHub stats](https://github-readme-stats.vercel.app/api/?username=lebedev05tmn&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![lebedev05tmn GitHub stats](https://github-readme-stats.vercel.app/api/?username=lebedev05tmn&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lebedev05tmn&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
