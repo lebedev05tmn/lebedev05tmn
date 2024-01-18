@@ -27,8 +27,10 @@ Front-end\*: common HTML+CSS+JS.
 
 - [Sedona](https://github.com/lebedev05tmn/Sedona) HTML+CSS
 - [Layout for CMS](https://github.com/lebedev05tmn/layot-for-cms) HTML+CSS
-- [Cat-energy](https://github.com/lebedev05tmn/cat-energy) HTML+SCSS(SASS)+JS
+- [Cat-energy](https://github.com/lebedev05tmn/cat-energy) HTML+SCSS(SASS)+JS+API(noUiSlider)
 - [Kekstagram](https://github.com/lebedev05tmn/kekstagram) JS+HTML+CSS
+- [Sotka](https://github.com/lebedev05tmn/sotka) HTML+CSS(Adaptive)
+- [Farm-Products](https://github.com/lebedev05tmn/farm-products) React.js(Function Components, Styled Components) + API(Swiper.js) 
 
 ## My stats
 
