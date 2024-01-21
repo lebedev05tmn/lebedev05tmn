@@ -15,11 +15,12 @@ As you can understand, I everywhere use nickname _lebedev05tmn_, so you can sear
 
 #### Techs
 
-Front-end\*: common HTML+CSS+JS.
+- Front-end\*: common HTML+CSS/SASS+JS.
+- React\*: Function Components, Styled Components, Router.
 
 #### Programming languages
 
-- JavaScript + React + Based Frontend stack (HTML, CSS, SASS)
+- JavaScript
 - Python
 - PHP
 
