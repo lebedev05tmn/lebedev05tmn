@@ -23,6 +23,7 @@ As you can understand, I everywhere use nickname _lebedev05tmn_, so you can sear
 - JavaScript
 - Python
 - PHP
+- С++
 
 ### I was working on:
 
@@ -31,7 +32,8 @@ As you can understand, I everywhere use nickname _lebedev05tmn_, so you can sear
 - [Cat-energy](https://github.com/lebedev05tmn/cat-energy) HTML+SCSS(SASS)+JS+API(noUiSlider)
 - [Kekstagram](https://github.com/lebedev05tmn/kekstagram) JS+HTML+CSS
 - [Sotka](https://github.com/lebedev05tmn/sotka) HTML+CSS(Adaptive)
-- [Farm-Products](https://github.com/lebedev05tmn/farm-products) React.js(Function Components, Styled Components) + API(Swiper.js) 
+- [Farm-Products](https://github.com/lebedev05tmn/farm-products) React.js(Function Components, Styled Components) + API(Swiper.js)
+- [RUS2 Task Test](https://github.com/lebedev05tmn/rus2-task-test) HTML + CSS + API(Swiper.js)
 
 ## My stats
 
