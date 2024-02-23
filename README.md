@@ -1,6 +1,6 @@
 # Hello World 👋
 
-I am 18 y.o. programmer from Russia. Currently I am the student of SUAI in Saint-Petersburg and trying get into frontend.  
+I am 18 y.o. programmer from Russia. Currently I am the student of SUAI in Saint-Petersburg and I am intersted in front-end development.  
 
 ### Contacts
 
@@ -16,7 +16,7 @@ As you can understand, I everywhere use nickname _lebedev05tmn_, so you can sear
 #### Techs
 
 - Front-end\*: common HTML+CSS/SASS+JS.
-- React\*: Function Components, Styled Components, Router.
+- React\*: Class Components, Function Components, Styled Components, Router.
 
 #### Programming languages
 
