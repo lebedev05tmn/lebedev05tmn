@@ -16,7 +16,7 @@ As you can understand, I everywhere use nickname _lebedev05tmn_, so you can sear
 #### Techs
 
 - Front-end\*: common HTML+CSS/SASS+JS.
-- React\*: Class Components, Function Components, Styled Components, Router.
+- React\*: Function Components, Styled Components
 
 #### Programming languages
 
