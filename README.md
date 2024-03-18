@@ -40,7 +40,7 @@ As you can understand, I everywhere use nickname _lebedev05tmn_, so you can sear
 - [Six Cities](https://github.com/lebedev05tmn/six-cities) React.js(Function Components, Prop Types, Redux, Axios, Jest) + API(leaflet) 
 - [VK Search Task](https://github.com/lebedev05tmn/vk-search-task) React.js(TS, Function Components, CSS Modules)
 - [VK Groups Task](https://github.com/lebedev05tmn/vk-search-task) React.js(TS, Function Components, CSS Modules)
-- [VK Frontend Task)(https://github.com/lebedev05tmn/vk-search-task) React.js(TS, Function Components, VKUI, VK Mini Apps)
+- [VK Frontend Task](https://github.com/lebedev05tmn/vk-search-task) React.js(TS, Function Components, VKUI, VK Mini Apps)
 
 
 ## My stats
