@@ -29,7 +29,8 @@ As you can understand, I everywhere use nickname _lebedev05tmn_, so you can sear
 ### I was working on:
 
 - [Sedona](https://github.com/lebedev05tmn/Sedona) HTML+CSS
-- [Layout for CMS](https://github.com/lebedev05tmn/layot-for-cms) HTML+CSS
+- [
+Layout for CMS](https://github.com/lebedev05tmn/layot-for-cms) HTML+CSS
 - [Cat-energy](https://github.com/lebedev05tmn/cat-energy) HTML+SCSS(SASS)+JS+API(noUiSlider)
 - [Kekstagram](https://github.com/lebedev05tmn/kekstagram) JS+HTML+CSS
 - [Sotka](https://github.com/lebedev05tmn/sotka) HTML+CSS(Adaptive)
@@ -39,8 +40,8 @@ As you can understand, I everywhere use nickname _lebedev05tmn_, so you can sear
 - [Tic-Tac-Toe](https://github.com/lebedev05tmn/tic-tac-toe) React.js(TS, Function Components, Styled Components, VK Mini Apps)
 - [Six Cities](https://github.com/lebedev05tmn/six-cities) React.js(Function Components, Prop Types, Redux, Axios, Jest) + API(leaflet) 
 - [VK Search Task](https://github.com/lebedev05tmn/vk-search-task) React.js(TS, Function Components, CSS Modules)
-- [VK Groups Task](https://github.com/lebedev05tmn/vk-search-task) React.js(TS, Function Components, CSS Modules)
-- [VK Frontend Task](https://github.com/lebedev05tmn/vk-search-task) React.js(TS, Function Components, VKUI, VK Mini Apps)
+- [VK Groups Task](https://github.com/lebedev05tmn/vk-groups-task) React.js(TS, Function Components, CSS Modules)
+- [VK Frontend Task](https://github.com/lebedev05tmn/vk-frontend-task) React.js(TS, Function Components, VKUI, VK Mini Apps)
 
 
 ## My stats
