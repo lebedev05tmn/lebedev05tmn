@@ -39,8 +39,8 @@ Layout for CMS](https://github.com/lebedev05tmn/layot-for-cms) HTML+CSS
 - [Sea Side Digital Task-test](https://github.com/lebedev05tmn/sea-side-digital) JS(MVP)
 - [Tic-Tac-Toe](https://github.com/lebedev05tmn/tic-tac-toe) React.js(TS, Function Components, Styled Components, VK Mini Apps)
 - [Six Cities](https://github.com/lebedev05tmn/six-cities) React.js(Function Components, Prop Types, Redux, Axios, Jest) + API(leaflet) 
-- [VK Search Task](https://github.com/lebedev05tmn/vk-search-task) React.js(TS, Function Components, CSS Modules)
-- [VK Groups Task](https://github.com/lebedev05tmn/vk-groups-task) React.js(TS, Function Components, CSS Modules)
+- [VK Search Task](https://github.com/lebedev05tmn/vk-search-task) React.js(TS, Function Components)
+- [VK Groups Task](https://github.com/lebedev05tmn/vk-groups-task) React.js(TS, Function Components)
 - [VK Frontend Task](https://github.com/lebedev05tmn/vk-frontend-task) React.js(TS, Function Components, VKUI, VK Mini Apps)
 
 
