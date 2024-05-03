@@ -5,8 +5,7 @@ I am 18 y.o. programmer from Russia. Currently I am the student of SUAI in Saint
 ### Contacts
 
 - Telegram - [@lebedev05tmn](https://t.me/lebedev05tmn) - **most preferable to contact me here**
-- Main CV - [Link for CV](https://drive.google.com/file/d/1IEVes6Iw1CGgoGcxbxRf5AIA9_DSwpfy/view?usp=sharing) - **Curriculum Vitae**
-- HeadHunter - [Link for CV](https://spb.hh.ru/resume/9cd16d75ff0cb693850039ed1f6e7070307466) - **Curriculum Vitae**
+- [Linkedin](www.linkedin.com/in/konstantin-lebedev-a42a17307) - more info about my work experince here. Can be useful for HRs 😉
 - Discord - homelyon#8051
 - VK - [@lebedev05tmn](https://vk.com/lebedev05tmn)
 
