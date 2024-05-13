@@ -16,7 +16,7 @@ As you can understand, I everywhere use nickname _lebedev05tmn_, so you can sear
 #### Techs
 
 - Front-end\*: common HTML+CSS/SASS+JS(TS).
-- React\*: Function Components, Hooks, Class Components, Styled Components, Prop-Types, Redux, Jest, Axios
+- React/Next.js\*: Function Components, Hooks, Class Components, Styled Components, Redux, Jest, Axios, ReactQuery etc...
 
 #### Programming languages
 
