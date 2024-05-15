@@ -13,16 +13,12 @@ As you can understand, I everywhere use nickname _lebedev05tmn_, so you can sear
 
 ### I know:
 
-#### Techs
-
-- Front-end\*: common HTML+CSS/SASS+JS(TS).
-- React/Next.js\*: Function Components, Hooks, Class Components, Styled Components, Redux, Jest, Axios, ReactQuery etc...
-
 <h4>🛠 Languages and Tools</h4>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="60" height="60"/>&nbsp;
+  <img src
+="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS"  alt="Tailwind CSS" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux"  alt="Redux" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain-wordmark.svg" title="Axios"  alt="Axios" width="60" height="60"/>&nbsp;
