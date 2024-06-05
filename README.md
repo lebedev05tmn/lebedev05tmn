@@ -6,7 +6,6 @@ I am 18 y.o. programmer from Russia. Currently I am the student of SUAI in Saint
 
 - Telegram - [@lebedev05tmn](https://t.me/lebedev05tmn) - **most preferable to contact me here**
 - [Linkedin](www.linkedin.com/in/konstantin-lebedev-a42a17307) - more info about my work experince here. Can be useful for HRs 😉
-- Discord - homelyon#8051
 - VK - [@lebedev05tmn](https://vk.com/lebedev05tmn)
 
 As you can understand, I everywhere use nickname _lebedev05tmn_, so you can search me by it ;)
@@ -25,7 +24,8 @@ As you can understand, I everywhere use nickname _lebedev05tmn_, so you can sear
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest"  alt="Jest" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>
+&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS"  alt="SASS" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP"  alt="PHP" width="60" height="60"/>&nbsp;
