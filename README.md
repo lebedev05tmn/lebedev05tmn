@@ -39,4 +39,3 @@ As you can understand, I everywhere use nickname _lebedev05tmn_, so you can sear
 
 ![lebedev05tmn GitHub stats](https://github-readme-stats.vercel.app/api/?username=lebedev05tmn&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lebedev05tmn&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lebedev05tmn&theme=algolia)
