@@ -1,6 +1,6 @@
 # Hello World 👋
 
-I am 19 y.o. programmer from Russia. Currently I am the student of SUAI in Saint-Petersburg and am Frontend Engineer
+I am 19 y.o. programmer from Russia. Currently I am the student of SUAI in Saint-Petersburg and am Software Engineer
 
 ### Contacts
 
